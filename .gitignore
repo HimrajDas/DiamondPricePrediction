@@ -2,4 +2,5 @@ venv/
 build/
 dist/
 logs/
-DiamondPricePrediction.egg-info/
+artifacts/model.pkl
+artifacts/preprocessor.pkl
